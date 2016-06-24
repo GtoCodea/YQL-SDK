@@ -1,0 +1,10 @@
+/Users/issc811/Desktop/YQLSDK/YQLSDK/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/issc811/Desktop/YQLSDK/YQLSDK/bin/Debug/YQLSDK.dll.mdb
+/Users/issc811/Desktop/YQLSDK/YQLSDK/bin/Debug/YQLSDK.dll
+/Users/issc811/Desktop/YQLSDK/YQLSDK/obj/Debug/YQLSDK.dll
+/Users/issc811/Desktop/YQLSDK/YQLSDK/obj/Debug/YQLSDK.dll.mdb
+/Users/macbookair/Downloads/YQLSDK/YQLSDK/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/macbookair/Downloads/YQLSDK/YQLSDK/obj/Debug/YQLSDK.dll
+/Users/macbookair/Downloads/YQLSDK/YQLSDK/obj/Debug/YQLSDK.dll.mdb
+/Users/macbookair/Downloads/YQLSDK/YQLSDK/bin/Debug/YQLSDK.dll.mdb
+/Users/macbookair/Downloads/YQLSDK/YQLSDK/bin/Debug/YQLSDK.dll
